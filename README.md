@@ -6,7 +6,6 @@ I work on characterising chemical diversity of the intersteallar medium in the M
 
 - 🔭 I’m currently investigating chemical variations of the neutral interstellar medium in the Solar neighbourhood
 - 🌱 I’m currently learning how to properly use GitHub
-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with HI 21cm observations of the Milky Way
 - 💬 Ask me about how astronomy can be used to make the world a better place (or check out [my article](https://www.astro4dev.org/can-astronomy-make-the-world-a-better-place/#:~:text=Through%20the%20OAD%2C%20projects%20based,and%20social%20and%20environmental%20sustainability.)!)
 - 📫 How to reach me: tanita.ramburuth-hurt@unige.ch
