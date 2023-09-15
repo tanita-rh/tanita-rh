@@ -11,6 +11,7 @@ I work on characterising chemical diversity of the intersteallar medium in the M
 - 💬 Ask me about how astronomy can be used to make the world a better place (or check out [my article](https://www.astro4dev.org/can-astronomy-make-the-world-a-better-place/#:~:text=Through%20the%20OAD%2C%20projects%20based,and%20social%20and%20environmental%20sustainability.)!)
 - 📫 How to reach me: tanita.ramburuth-hurt@unige.ch
 - 😄 Pronouns: she/her
-- ⚡ My favourite fun fact about space is that it is possible to fit all of the planets between the Earth and the Moon 
+- ⚡ My favourite fun fact about space is that it is possible to fit all of the planets between the Earth and the Moon
+- 🎨 My cover illustration was created by Alex Sharpova as part of a science x art collaboration at HEAD design school in Geneva. See more of Alex's art on her Instagram feed: [@steppph_nova](https://www.instagram.com/steppph_nova/) 
 
 
