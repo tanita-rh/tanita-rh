@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **tanita-rh/tanita-rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tanita.ramburuth-hurt@unige.ch
 - 😄 Pronouns: she/her
 - ⚡ My favourite fun fact about space is that it is possible to fit all of the planets between the Earth and the Moon 
--->
+
