@@ -11,6 +11,6 @@ I work on characterising chemical diversity of the intersteallar medium in the M
 - 📫 How to reach me: tanita.ramburuth-hurt@unige.ch
 - 😄 Pronouns: she/her
 - ⚡ My favourite fun fact about space is that it is possible to fit all of the planets between the Earth and the Moon
-- 🎨 My cover illustration was created by Alex Sharpova as part of a science x art collaboration at HEAD design school in Geneva. See more of Alex's art on her Instagram feed: [@steppph_nova](https://www.instagram.com/steppph_nova/) 
+- 🎨 My cover illustration was created by Alex Stepanova as part of a science x art collaboration at HEAD design school in Geneva. See more of Alex's art on her Instagram feed: [@steppph_nova](https://www.instagram.com/steppph_nova/) 
 
 
